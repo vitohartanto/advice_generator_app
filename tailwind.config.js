@@ -14,6 +14,9 @@ module.exports = {
         lightCyan: 'hsl(193, 38%, 86%)',
         neonGreen: 'hsl(150, 100%, 66%)',
       },
+      boxShadow: {
+        shadowOnAllSides: '0 0 50px 0 hsl(150, 100%, 66%)',
+      },
     },
   },
   plugins: [],
